@@ -20,8 +20,8 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/DIMAtestGITHUB/felump_Public.git
+cd felump_Public
 
 python -m venv venv
 venv\Scripts\activate
